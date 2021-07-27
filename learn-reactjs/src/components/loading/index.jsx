@@ -1,17 +1,10 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import './styles.scss';
 
-Loading.propTypes = {
-    
-};
+Loading.propTypes = {};
 
 function Loading(props) {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <div></div>;
 }
 
 export default Loading;
